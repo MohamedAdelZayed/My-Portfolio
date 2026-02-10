@@ -1,0 +1,157 @@
+{
+
+
+
+"Nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "logo": "Mohamed Adel"
+  },
+
+
+  "Hero": {
+    "welcome": "Welcome to My Portfolio",
+    "hi": "Hi, I'm",
+    "name": "Mohamed Adel",
+      "description": "Passionate Frontend Software Engineer building responsive, engaging user-friendly web apps with Next.js, React.js, and modern web technologies. Focused on performance, accessibility, immersive user experience, and problem-solving.",
+
+    "viewWork": "View My Work",
+    "downloadCv": "Download CV",
+    "roles": [
+      "Frontend Developer",
+      "React & Next.js Developer",
+      "Building Clean UI Experience",
+      "Crafting Interactive Web Apps"
+    ]
+  },
+
+  "About": {
+    "title": "About Me",
+    "description1": "Front-end Web Developer with a strong knowledge in HTML, CSS, JavaScript, ReactJS, and Next.js. I'm passionate about creating user-friendly and visually appealing web applications that provide exceptional user experiences.",
+    "description2": "I'm skilled in working with various tools and frameworks to build dynamic websites, and I'm continuously improving my coding skills to contribute effectively to project success.",
+    "cleanCode": "Clean Code",
+    "beautifulDesign": "Beautiful Design",
+    "performance": "Performance",
+    "greatUX": "Great UX",
+    "educationTitle": "Education",
+    "degree": "B.Sc. in Computer Science • Graduated 2025",
+    "university": "Faculty of Computers and Information, Tanta University",
+    "years": "2021–2025",
+    "thinkTitle": "How I Build & Think",
+    "point1": "Build scalable, mobile-first user interfaces",
+    "point2": "Write clean, maintainable code following best practices",
+    "point3": "Focus on performance, accessibility, and UX details",
+    "point4": "Translate designs into pixel-perfect responsive layouts",
+    "point5": "Integrate APIs and handle real-world data efficiently",
+    "point6": "Collaborate smoothly with designers and backend developers",
+    "point7": "Continuously learn and adapt to modern frontend technologies"
+},
+
+"Skills": {
+    "title": "Skills & Technologies",
+    "categories": {
+      "fundamentals": "Frontend Fundamentals",
+      "frameworks": "Frameworks",
+      "styling": "Styling & UI",
+      "state": "State & Data Management",
+      "forms": "Forms",
+      "tools": "Tools & Workflow"
+    },
+    "items": {
+      "html5": "HTML5",
+      "css3": "CSS3",
+      "javascript": "JavaScript (ES6+)",
+      "typescript": "TypeScript",
+      "react": "React",
+      "nextjs": "Next.js (App Router)",
+      "tailwind": "Tailwind CSS",
+      "bootstrap": "Bootstrap",
+      "scss": "SCSS",
+      "mui": "MUI",
+      "framer": "Framer Motion",
+      "redux": "Redux Toolkit",
+      "context": "Context API",
+      "reactQuery": "React Query",
+      "zustand": "Zustand",
+      "reactHookForm": "React Hook Form",
+      "formik": "Formik",
+      "yup": "Yup",
+      "git": "Git & GitHub",
+      "vercel": "Vercel",
+      "supabase": "Supabase",
+      "restApi": "REST APIs",
+      "figma": "Figma",
+      "postman": "Postman"
+    }
+  },
+
+  "Projects": {
+    "title": "Featured Projects",
+    "liveDemo": "Live Demo",
+    "code": "Code",
+    "projects": [
+      {
+        "title": "Movies Stream App",
+        "description": "An immersive cinematic platform providing movies and TV series, real-time search, advanced filtering, pagination, detailed profiles with trailers, cast, dynamic sliders, smooth animations, and optimized UI."
+      },
+      {
+        "title": "Fresh Cart — E-Commerce",
+        "description": "A modern e-commerce app featuring secure authentication, products, categories, brands pages, advanced cart, wishlist management, real-time updates, pagination, and checkout with payment."
+      },
+      {
+        "title": "Hotel Booking Web App",
+        "description": "A responsive hotel booking web app with advanced search and filtering, interactive dashboard, secure authentication, real-time availability, efficient and comprehensive reservation management."
+      },
+      {
+        "title": "Real Estate Website",
+        "description": "Multi-language real estate platform with dynamic listings, responsive design, and interactive UI. Featuring search, filtering and smooth animations."
+      },
+      {
+        "title": "Weather App",
+        "description": "Modern weather application providing real-time weather data, location-based forecasts, and dynamic UI updates with a clean and responsive design."
+      }
+    ]
+  },
+
+  
+  
+  "Contact": {
+    "title": "Get In Touch",
+    "formTitle": "Send Me a Message",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your Name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "example@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Write your message...",
+    "sendButton": "Send Message",
+    "sending": "Sending...",
+    "successToast": "Message sent",
+    "errorToast": "Failed to send message",
+    "contactTitle": "Let's Connect",
+    "contactText": "I'm always open to discussing new opportunities, interesting projects, or just having a chat about web development. Feel free to reach out!",
+    "email": "Email",
+    "phone": "+20 1227245823",
+    "location": "Cairo, Egypt",
+    "followMe": "Follow Me"
+  },
+
+
+  "Footer": {
+    "backToTop": "Back to top",
+    "builtWith": "Built with",
+    "nextJs": "Next.js",
+    "tailwind": "Tailwind CSS",
+    "copyright": "Mohamed Adel © {year}"
+  }
+
+
+
+
+}
+
+
+
