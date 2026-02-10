@@ -117,7 +117,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/Mohamed-Adel-FrontEnd-CV.pdf"
+            href="/Mohamed_Adel_FrontendCv.pdf"
             download
             className="cursor-pointer px-6 py-3 border-2 border-blue-600 text-blue-600 dark:text-blue-400 dark:border-blue-400 font-semibold rounded-lg hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-900 transition-all duration-300"
           >
