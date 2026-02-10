@@ -258,7 +258,8 @@ const toggleLanguage = () => {
         >
           {link.name}
           <span
-            className={`absolute left-0 -bottom-1 h-0.5 bg-blue-600 transition-all duration-300 ${
+            className={`absolute left-0 -bottom-1 h-0.5 bg-blue-600 transition-all duration-300 ease-in-out
+            ${
               activeSection === link.id ? "w-full" : "w-0 group-hover:w-full"
             }`}
           />

@@ -115,7 +115,15 @@ export default function Projects() {
             "
           >
             {/* Project Image */}
-            <div className="relative h-48 w-full overflow-hidden">
+            {/* <div className="relative h-48 w-full overflow-hidden"> */}
+              <a
+  href={project.liveDemo}
+  target="_blank"
+  rel="noopener noreferrer"
+  className="relative h-48 w-full overflow-hidden block cursor-pointer"
+>
+
+
               <Image
                 src={project.image}
                 alt={project.title}
@@ -125,7 +133,7 @@ export default function Projects() {
                   object-cover
                   transition-transform duration-700 ease-out
                   group-hover:scale-102
-                  group-hover:-translate-y-2
+                  group-hover:-translate-y-2 group-hover:brightness-110
                 "
               />
 
@@ -150,7 +158,8 @@ export default function Projects() {
                   pointer-events-none
                 "
               />
-            </div>
+
+            </a>
 
             {/* Project Content */}
             <div className="px-4 pt-4 pb-4">
